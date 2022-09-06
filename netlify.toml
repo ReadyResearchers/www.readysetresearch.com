@@ -8,9 +8,5 @@ command = """
 pip install -q poetry &&
 poetry config virtualenvs.in-project true &&
 poetry install -v &&
-mkdocs build -d site &&
-cd decks
-cd os-slides
-npm install
-npm run build --workspaces
+mkdocs build -d site
 """
