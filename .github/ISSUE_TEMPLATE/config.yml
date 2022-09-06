@@ -1,0 +1,17 @@
+blank_issues_enabled: true
+contact_links:
+  - name: I want to raise an issue in a category not already described.
+    url: https://github.com/ReadyResearchers/www.readysetresearch.com/issues/new/?title=[Feedback]
+    about: Go ahead and raise your issue on our issue tracker!
+  - name: I have a technical question or need technical support with content on OS Sketch
+    url: https://github.com/ReadyResearchers/www.readysetresearch.com/discussions
+    about: We use GitHub Discussions for all detailed communication about technical content. No invitation needed!
+  - name: I have a quick technical question about the content on Ready, Set, Research
+    url: https://discord.gg/EHjWbnyvbe
+    about: If you have a quick question, then joining our Discord Chat is a great idea. Just accept the invitation!
+  - name: I heard about Ready, Set, Research but I don't know how to find it!
+    url: https://readysetresearch.com/
+    about: If you want to access the technical content, then visit the main web site!
+  - name: I'm unsure where to go for more help with Ready, Set, Research
+    url: https://discord.gg/EHjWbnyvbe
+    about: If you are unsure where to go, then joining our Discord chat is recommended. Just accept the invitation!
