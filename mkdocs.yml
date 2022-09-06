@@ -41,7 +41,7 @@ theme:
   # Enable features that are built-in to material for mkdocs
   features:
     # Allow a user to dismiss the announcement at the top of the page
-    - announce.dismiss
+    # - announce.dismiss
     # Create a single-page application with faster loading evident
     # Note that this option prohibits the rendering of mathematics;
     # there was some evidence that this was not the case but now
@@ -180,8 +180,6 @@ extra_javascript:
 # Page tree that defines the navigation structure
 nav:
   - Introduction: index.md
-  - Learning Objectives: operating-systems/learning-objectives.md
-  - Learning Community: operating-systems/learning-community.md
-  - Course Syllabus: operating-systems/syllabus.md
-  - Course Schedule: operating-systems/schedule.md
-  - Topics List: tags.md
+  - Learning Community: research-methods/learning-community.md
+  - Course Syllabus: research-methods/syllabus.md
+  - Course Schedule: research-methods/schedule.md
